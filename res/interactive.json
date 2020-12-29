@@ -58,6 +58,14 @@
         {
           "type": "image",
           "url": "res/works/core/11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/13.jpg"
         }
       ],
       "password": "mcdesign"
