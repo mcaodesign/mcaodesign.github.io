@@ -2,16 +2,6 @@
   "ret": 1,
   "data": [
     {
-      "name": "EverlyWell",
-      "date": "  06.2021 - present",
-      "subtitle": "At-home collection lab testing.",
-      "primaryColor": "#212121",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#efefef",
-      "text": "<p>Please email me to get to know more about this project and what I have worked on.</p><p>I lead the design to deliver a better test results experience for both direct consumers and enterprise users. I work closely with PMs, engineers, researchers & analysts, and clinical members to redesign the results experience. I also lead design initiatives to push a more user-centered design culture.</p>",
-      "thumb": "res/works/EverlyWell/cover.jpg"
-    },
-    {
       "name": "Core Meditation",
       "date": "  07.2019 - 06.2020",
       "subtitle": "Vibration guided meditation with the Core device which also detects heart rate & HRV. Works together with a mobile app of a variety of meditation content.",
@@ -159,6 +149,16 @@
         }
       ],
       "password": "mcdesign"
+    },
+    {
+      "name": "EverlyWell (coming soon...)",
+      "date": "  06.2021 - present",
+      "subtitle": "At-home collection lab testing.",
+      "primaryColor": "#212121",
+      "secondaryColor": "#8C8C8C",
+      "bgColor": "#efefef",
+      "text": "<p>Please email me to know more about this project and what I have worked on.</p>",
+      "thumb": "res/works/EverlyWell/cover.jpg"
     },
     {
       "name": "Clade",
