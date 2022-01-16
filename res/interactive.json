@@ -8,7 +8,7 @@
       "primaryColor": "#212121",
       "secondaryColor": "#8C8C8C",
       "bgColor": "#efefef",
-      "text": "<h2><a href=\"res/core-meditation-case-study.pdf\" target=\"_blank\">Click here to view Core Meditation design case study</a></h2><p>Core wellness is an SF based health-tech startup, creating unique meditation experiences with Core device, the mobile app, and offline Core studio. The core device is a handheld meditation tool. It vibrates to lead users to do different breath patterns with signals on inhale, exhale, and hold. There are sensors on the device to detect heart rate, beat-to-beat variability (HRV), and how these change throughout one meditation and overtime. The data generates the user's calm & focus score during the meditation session. So people can see their report right away and get to know the progress over time.</p><p>I started work at Clade in July 2019 as a Product Designer. I redesign the Core mobile app from Beta to launch with two PMs and a meditation expert.</p><p>Goals and challenges:</p><p>There are three pain points for people who mediates and is trying to meditate. 1. It's hard to focus during meditation. 2. It's hard to grow the habit of meditating daily or frequently as we are all busy in modern life. 3. I don't know if it's working.</p><p>The challenges are 1. How can we help users to focus through meditation in classes or alone? 2. How can we design the meditation content, the rewards, the to-do actions to help people keep practicing? 3. How can we show the data in a fun & easy & understandable way to help people know their practices in a single session and show their progress over time? 4. How can we design visuals that are tied to branding and create ownership?</p><p>The physical Core device is designed to help people focus during meditation with its weight and vibration. It helps people find the point and always vibrates to get their wandering minds back. The Software, the mobile app provides a variety of meditation content, including fresh Core studio meditations, guide meditations, breath works, and sound & music meditations. We designed a quick-start homepage where users can start one meditation right away whenever they open the app. There are progress trend, total sessions, total munites, and streak to reward users to keep practicing. Also, we designed data visualization to show people the fact of their meditation sessions and their progress analysis over time. So, users will know that meditation is working as long as you keep practice.</p><p>Consistency, recognition, surprising & curiosity are the most important parts of my app visual redesign. Things must be consistent through the app. The visual and elements must be tied to the brand and create ownership. So, people will know it's core meditation without seeing a logo. To make the product fun, we need to give users surprises and things to smile on here and there, such as illustrations, animations, copies, etc.</p><p>My role:</p><p>There are five people on the product team. I am the Product Designer, two PMs, one meditation expert, and one iOS prototype developer.</p><p>I redesigned the app's visual. I built the Core product design system with all the fonts, colors, icons, elements, components, illustrations, and errors & alerts. Five of us usually worked together on brainstorm & ideations. PMs worked with me together to create user flowers and rough wireframes. I designed all the iteration designs, inVision & Principle prototypes, and held design reviews to get feedback from the product team and the whole company. Five of us worked together on user testing and building iOS prototypes. I worked with the engineering team to deliver the final launch.</p><p>Research, Brainstorming, Wireframe, UX Design, UI Design, Visual Design, Illustration, Prototyping, User Testing, Iteration designs.</p><p><a href=\"https://apps.apple.com/us/app/core-meditation/id1490644270\" target=\"_blank\">Apple Store Link</a></p>",
+      "text": "<p>Core wellness is an SF based health-tech startup, creating unique meditation experiences with the Core device, the mobile app, and offline Core studio. The core device is a handheld meditation tool. It vibrates to lead users to do different breath patterns with signals on inhale, exhale, and hold. There are sensors on the device to detect heart rate, beat-to-beat variability (HRV), and how these change throughout one meditation and overtime. The data generates the user's calm & focus score during the meditation session. So people can see their report right away and get to know the progress over time.</p><p>I started work at Clade in July 2019 as a Product Designer. I redesign the Core mobile app from Beta to launch with two PMs and a meditation expert.</p><p><a href=\"https://apps.apple.com/us/app/core-meditation/id1490644270\" target=\"_blank\">Apple Store Link</a></p>",
       "thumb": "res/works/core/cover.jpg",
       "media": [
         {
@@ -66,6 +66,86 @@
         {
           "type": "image",
           "url": "res/works/core/13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/15.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/16.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/17.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/18.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/19.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/20.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/21.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/22.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/23.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/24.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/25.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/26.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/27.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/28.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/29.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/30.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/31.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/32.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/core/33.jpg"
         }
       ],
       "password": "mcdesign"
