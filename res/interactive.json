@@ -2,13 +2,224 @@
   "ret": 1,
   "data": [
     {
+      "name": "AutoCAD Web Onboarding",
+      "date": "2022-2023",
+      "subtitle": "AutoCAD Web’s onboarding experience for first-time users.",
+      "primaryColor": "#ffffff",
+      "secondaryColor": "#C4C8CC",
+      "bgColor": "#000000",
+      "text": "<p>AutoCAD Web brings core AutoCAD capabilities to the web and mobile, enabling users to review drawings and make simple edits anywhere, anytime. Designed as a lightweight, more affordable alternative to the full desktop AutoCAD, the product offers a 30-day free trial, after which users can subscribe for full access or continue with view-only mode.</p><p>This project focused on improving the onboarding experience for first-time users. With limited onboarding and educational guidance in place, new users often struggled to understand the product’s value and how to get started. The goal was to highlight key capabilities, set clear expectations, and equip users with the essential knowledge they need to engage confidently and effectively with AutoCAD Web from day one.</p><p><a href=\"https://web.autocad.com/login\" target=\"_blank\">AutoCAD Web</a></p>",
+      "thumb": "res/works/acad-onboarding/cover.jpg",
+      "media": [
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/0.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/3.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/5.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/7.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/8.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/9.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/13.jpg"
+        }
+      ],
+      "password": "mcdesign"
+    },
+    {
+      "name": "AutoCAD Activity Insights",
+      "date": "2023-2024",
+      "subtitle": "AutoCAD’s Activity Insights on web with shared components and updated search and filters for clearer tracking of changes.",
+      "primaryColor": "#ffffff",
+      "secondaryColor": "#C4C8CC",
+      "bgColor": "#2E3441",
+      "text": "<p>Activity Insights is a well-loved feature in AutoCAD desktop that surfaces a drawing’s activity history, helping users understand what changed, when, and by whom. I led the effort to bring Activity Insights to AutoCAD Web and Mobile, delivering full functionality on web while enabling mobile to contribute activity data at MVS1.</p><p>As part of this work, we redesigned Activity Insights using Stitch components shared across platforms to ensure consistency, scalability, and easier updates. I also redesigned the filter and search experience, modernizing an overdue interaction and visual system to make activity exploration faster, clearer, and more usable.</p>",
+      "thumb": "res/works/acad-activity/cover.jpg",
+      "media": [
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/0.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/3.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/5.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-onboarding/6.jpg"
+        }
+      ],
+      "password": "mcdesign"
+    },
+    {
+      "name": "EverlyWell",
+      "date": "  06.2021 - 06.2022",
+      "subtitle": "At-home collection lab testing.",
+      "primaryColor": "#FFFFFF",
+      "secondaryColor": "#C4C8CC",
+      "bgColor": "#0A5247",
+      "text": "<p>Everlywell offers at-home lab testing by providing customers with self-collection kits that can be mailed to certified labs for analysis and digital results. I led the design to improve the test results experience for both direct-to-consumer and enterprise users, with a focus on clarity, trust, and ease of understanding in a sensitive health context.</p><p>The project began with Everlywell’s most popular product, the Food Sensitivity Test, and reimagined how results are presented, understood, and acted upon, helping users move from raw data to meaningful insight with confidence.</p>",
+      "thumb": "res/works/EverlyWell/cover.jpg",
+      "media": [
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.1.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.2.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.3.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.4.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.5.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.7.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.8.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.9.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.10.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.11.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.12.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.13.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.14.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.15.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.16.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.17.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.18.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.19.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.20.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.21.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/EverlyWell/3.22.jpg"
+        }
+      ],
+      "password": "mcdesign"
+    },
+    {
       "name": "Core Meditation",
       "date": "  07.2019 - 06.2021",
       "subtitle": "Vibration guided meditation with the Core device which also detects heart rate & HRV. Works together with a mobile app of a variety of meditation content.",
       "primaryColor": "#212121",
       "secondaryColor": "#8C8C8C",
       "bgColor": "#efefef",
-      "text": "<p>Core wellness is an SF-based health-tech startup, creating unique meditation experiences with the Core device, the mobile app, and offline Core studio. The core device is a handheld meditation tool. It vibrates to lead users to do different breath patterns with signals on inhale, exhale, and hold. There are sensors on the device to detect heart rate, beat-to-beat variability (HRV), and how these change throughout one meditation and overtime. The data generates the user's calm & focus score during the meditation session. So people can see their report right away and get to know the progress over time.</p><p>I started work at Clade in July 2019 as a Product Designer. I redesign the Core mobile app from Beta to launch with two PMs and a meditation expert.</p><p><a href=\"https://apps.apple.com/us/app/core-meditation/id1490644270\" target=\"_blank\">Apple Store Link</a></p>",
+      "text": "<p>Core wellness is an SF-based health-tech startup, creating unique meditation experiences with the Core device, the mobile app, and offline Core studio. The core device is a handheld meditation tool. It vibrates to lead users to do different breath patterns with signals on inhale, exhale, and hold. There are sensors on the device to detect heart rate, beat-to-beat variability (HRV), and how these change throughout one meditation and overtime. The data generates the user's calm & focus score during the meditation session. So people can see their report right away and get to know the progress over time.</p><p>I started work at Core in July 2019 as a Product Designer. I redesign the Core mobile app from Beta to launch with two PMs and a meditation expert.</p><p><a href=\"https://apps.apple.com/us/app/core-meditation/id1490644270\" target=\"_blank\">Apple Store Link</a></p>",
       "thumb": "res/works/core/cover.jpg",
       "media": [
         {
@@ -110,55 +321,9 @@
         {
           "type": "image",
           "url": "res/works/core/24.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/25.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/26.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/27.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/28.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/29.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/30.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/31.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/32.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/core/33.jpg"
         }
       ],
       "password": "mcdesign"
-    },
-    {
-      "name": "EverlyWell (coming soon...)",
-      "date": "  06.2021 - present",
-      "subtitle": "At-home collection lab testing.",
-      "primaryColor": "#212121",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#efefef",
-      "text": "<p>Please email me mcaodesign@gmail.com to know more about this project and what I have worked on.</p>",
-      "thumb": "res/works/EverlyWell/cover.jpg"
     },
     {
       "name": "Clade",
@@ -222,74 +387,6 @@
       "password": "mcdesign"
     },
     {
-      "name": "LianUp",
-      "date": "11.2017 - 06.2019",
-      "subtitle": "Bring the confluent power of POS, payment, and social network.",
-      "primaryColor": "#ffffff",
-      "secondaryColor": "#212121",
-      "bgColor": "#4B7795",
-      "text": "<p>LianUp is a Boston-based startup, dedicated to empowering restaurants by bringing the confluent power of POS, payment, and social networks. The main products include POS, self-ordering Kiosk, and website/mobile app solutions for each restaurant. By providing these technologies, to help them run smarter, efficiently, and cost less.</p>I mainly work with the CEO to form LianUp products, and I iterate works based on users’ feedback from the restaurants that we are working with.</P><p>Goals/challenges:</p><p>LianUp is designed to simplify restaurant owners’ daily operation cost, enrich customers' experience when engaging with restaurants, and connect customers and good food virtually from anywhere possible. So, for restaurant owners/workers and restaurant customers, we need different experiences and solutions.</p><p>For restaurant owners and workers, need a functional easy-to-use POS system to save time to complete orders as much as possible. For restaurant customers, they need an easy understanding Kiosk to achieve their self-ordering painlessly.</p><p>My role:</p><p>I take care of all the design works at LianUp. From digital products to branding and prints. For digital products, I designed the LianUp POS and the official website which you can see below. I also designed Kiosk, that's shown in the next project. The design process includes user research, user experience learning, workflows, design, testing, iterations.</p><p>Branding, UX Design, UI Design, Visual Design.</p>",
-      "thumb": "res/works/lianup/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/lianup/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/7.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/8.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/9.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/12.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/13.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lianup/14.jpg"
-        }
-      ]
-    },
-    {
       "name": "Buxom Virtual Makeup",
       "date": "12.2017 - 06.2019",
       "subtitle": "Virtual makeup experiences with augmented reality technology.",
@@ -333,118 +430,6 @@
         }
       ],
       "password": "mcdesign"
-    },
-    {
-      "name": "LianUp Kiosk",
-      "date": "07.2018 - 06.2019",
-      "subtitle": "A painless self-ordering experience that helps restaurants increase income and lower labor costs.",
-      "primaryColor": "#ffffff",
-      "secondaryColor": "#212121",
-      "bgColor": "#FE7F6C",
-      "text": "<p>LianUp is a Boston-based startup, dedicated to empowering restaurants by bringing the confluent power of POS, payment, and social networks. The main products include POS, self-ordering Kiosk, and website/mobile app solutions for each restaurant. By providing these technologies, to help them run smarter, efficiently, and cost less.</p><p>I mainly work with the CEO to form LianUp products, and I iterate works based on users’ feedback from the restaurants that we are working with.</P><p>Goals/challenges:</p><p>LianUp Kiosk is designed to complete customers' self-ordering experience in stores. How to build an easy-understand and easy-use Kiosk product to let customers complete their orders painlessly? How to smooth the ordering process to let customers achieve their demands faster to increase restaurants' orders and income? How to replace labor costs with Kiosk, especially in rush hours? These are the primary goals and challenges of this product.</p><p>My role:</p><p>I work individually on the LianUp Kiosk design project. The design process includes user research, user experience learning, workflows, wireframes, design, testing, iterations.</p><p>Research, Wireframes, UX Design, UI Design, Visual Design.</p>",
-      "thumb": "res/works/kiosk/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/kiosk/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/kiosk/7.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Michael Kors",
-      "date": "06.2015 - 08.2015",
-      "subtitle": "Internship projects at Michael Kors",
-      "primaryColor": "#000000",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#FFFFFF",
-      "text": "<p>I worked at Michael Kors as a User Interface Design Intern in the e-Commerce group. I was mainly working on designs to support the Michael Kors website (desktop and mobile). I also did email templates design, new features design, such as zoom in/out the product images on mobile, and new store opening design for an AB testing on desktop. I supported Michael Kors Digital Brand Guide. I did lots of competitive research, such as customized features and holiday templates for desktop/mobile. One of the big assignments was researching responsive web design in the fashion industry. In the end, I gave a presentation to the whole team. I also worked on creating animations, icons, gifs, and infographics.</p><p>UI Design, Visual Design, Research.</p>",
-      "thumb": "res/works/mk/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/mk/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/mk/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/mk/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/mk/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/mk/5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/mk/6.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Under The Skin",
-      "date": "02.2016 - 05.2016",
-      "subtitle": "An interactive project about skin diseases.",
-      "primaryColor": "#ffffff",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#4D4D4D",
-      "text": "<p>Under the skin is a story-telling interactive design project about skin diseases. Users can expect to hear eight personal stories from people who have skin conditions while interacting with the installation. It's one of my school projects at Parson School of Design.</p><p>The interactive installation includes four components: hand imprints, skin pattern images, audio players, and the patients' information. When visitors interact with the hand imprint by pushing it, it will trigger the voice telling a personal story. The stories highlight positives in the patients’ lives, despite their conditions. An obstacle the patient overcame or a way that the condition had turned their lives in a positive direction. The hand imprints are from these people who have skin problems and give their stories, which can build a connection between visitors and sufferers. The media underhand imprints are real images from volunteers’ skin.</p><p>Goals/ Why am I doing this project?</p><p>I had severe acne when I was in high school. That affected my emotions and self-confidence. I could not accept myself when I was facing mirrors, which was painful. I know how hard it is to fight against skin diseases. Therefore, I want to do something for people who have the same experiences as me with my design abilities. I did a branding design for the Women’s Skin Foundation that is listed in my creative projects section. For this interactive project, I know that there are many stories behind different skin patterns, such as how skin problems affect people's daily lives, what misunderstandings people have experienced, what they have learned from it, and what makes them stronger. I want these people to speak out to express their feelings and to bring more awareness and empathy to other people. More awareness we got, the more accepted we become.</p><p>Challenges:</p><p>The most challenging part of this project is to find interviewees who want to work with me and to tell their stories. I sent messages to people with skin problems whom I discovered on Facebook and Instagram. However, I only got one person who finally became part of my project. Then I sent emails to different skin organizations. Luckily I was able to connect with the National Psoriasis Foundation. They helped me find six volunteers from their community. That surprised me and helped me to form my final plan. I would never know that there are so many people who want to help and there are so many impressing stories if I have not tried to reach out to them. I appreciate all the helps I got, and I am thankful for this experience.</p><p>The feedback I got from volunteers and the NPF community about my outcome made me more confident to design to help people and to solve problems. Getting support from people is essential for designers to make their works more valuable.</p><p>This project was published on NPFBLOG, which can be checked out here, <a href=\"https://www.psoriasis.org/blog/intersection-art-and-psoriasis\" target=\"_blank\">The intersection of art and psoriasis</a>. It was also presented at the National Psoriasis Foundation Volunteer Conference 2017 in Chicago.</p><p>UX Design, Visual presentation, Storytelling.</p>",
-      "thumb": "res/works/skin2/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/skin2/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin2/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin2/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin2/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin2/5.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://player.vimeo.com/video/163974265"
-        }
-      ]
     }
   ]
 }

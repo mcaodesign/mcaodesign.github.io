@@ -2,66 +2,26 @@
   "ret": 1,
   "data": [
     {
-      "name": "Lun Hui",
-      "date": "09.2016 - 05.2017",
-      "subtitle": "Bringing together city residents and craftspeople.",
+      "name": "YiQi Hanzi",
+      "date": "2020 - 2022",
+      "subtitle": "Creative Chinese characters",
       "primaryColor": "#000000",
       "secondaryColor": "#8C8C8C",
-      "bgColor": "#DFEEE9",
-      "text": "<p>Lun Hui is my MFA thesis project at Parsons School of Design. It is a platform created to drive demand for upcycling and bring city residents together. The service connects individuals who are decluttering to craftspeople who make products from recycled materials. The goal is to reduce waste and create value to fulfill customers’ feelings of satisfaction, thrift, and resourcefulness.</p><p>The outcome is an artificial bot-centered up-cycling service. The bot can be embodied in different chat applications, such as Messenger and Slack. There are also separate online platforms for presenting and selling up-cycled creations, including a website, a Facebook page, and an Instagram account.</p><p>Design Questions:</p><p>Why is up-cycling a good solution for waste problems? How can we create an up-cycling loop to turn waste into new products and bring people who throw things away and craftspeople who can reuse waste into this loop? What is the best way /media /platform to connect all the things together to build up the loop? How might I make the decluttering experience as easy as throw things away and the ordering material experience as casual as pick up things along the street? Can up-cycled products be attractive, fashionable, and accepted by the majority of people?</p><p>This project is accepted to the ACM Creativity & Cognition 2017 Technology Demonstrations.</p><p><a href=\"http://dl.acm.org/citation.cfm?doid=3059454.3078710\" target=\"_blank\">Published Paper</a></p><p><a href=\"http://caom061.github.io/res/thesispaper-lunhui.pdf\" target=\"_blank\">Whole Paper</a></p><p>Concept Development, Branding Design, UI UX Design, Visual Design.</p>",
-      "thumb": "res/works/lunhui/cover.jpg",
+      "bgColor": "#FFFFFF",
+      "text": "<p>YiQi Hanzi is a creative exploration of Chinese characters that blends traditional calligraphy with Chinese watercolor illustration. Using design thinking as the foundation, the project breaks away from conventional calligraphic forms and reimagines each character by integrating expressive drawings directly into its structure. The visual elements are not decorative add-ons, they are thoughtfully woven into the characters to reveal their meaning from within.</p><p>For many non-Chinese readers, Chinese characters often appear complex and abstract, like unfamiliar drawings. This project aims to change that perception by making characters intuitive, approachable, and visually understandable, allowing more people to experience the beauty and logic of the Chinese writing system and, ultimately, Chinese culture itself.</p><p>Beyond the illustrations, I designed and created an interactive set of flashcards that incorporate technology into the learning experience. Each card features a QR code that links to the YiQi Hanzi online learning center, providing expanded resources and deeper context for every character. Through this holistic experience design—combining visual storytelling, physical objects, and digital learning—the project makes Chinese characters easier to learn, remember, and enjoy.</p><p><a href=\"https://www.instagram.com/yiqihanzi/\" target=\"_blank\">Instagram Page</a></p>",
+      "thumb": "res/works/yiqihanzi/cover.png",
       "media": [
         {
           "type": "image",
-          "url": "res/works/lunhui/1.jpg"
+          "url": "res/works/yiqihanzi/1.pdf"
         },
         {
           "type": "image",
-          "url": "res/works/lunhui/2.jpg"
+          "url": "res/works/yiqihanzi/2.pdf"
         },
         {
           "type": "image",
-          "url": "res/works/lunhui/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/7.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/8.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/9.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/10.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/lunhui/12.jpg"
-        },
-        {
-          "type": "video",
-          "url": "https://player.vimeo.com/video/208253056"
+          "url": "res/works/yiqihanzi/3.pdf"
         }
       ]
     },
@@ -174,130 +134,42 @@
         {
           "type": "image",
           "url": "res/works/jiudian-vi/11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/jiudian-vi/12.jpg"
         }
       ]
     },
     {
-      "name": "Keladyscope",
-      "date": "04.2014 - 08.2014",
-      "subtitle": "Branding design for the women's skin foundation.",
+      "name": "Under The Skin",
+      "date": "02.2016 - 05.2016",
+      "subtitle": "An interactive project about skin diseases.",
       "primaryColor": "#ffffff",
       "secondaryColor": "#8C8C8C",
-      "bgColor": "#C32B32",
-      "text": "<p>Keladyscope is a branding concept for the Women's Skin Foundation. Keladyscope = kaleidoscope + lady. The concept of this branding design is that every skin pattern is unique and beautiful, especially when you look it through a kaleidoscope. So, people who are suffering from skin conditions should see it from a different angle, to accept themselves, and to find the beauties behind their skin patterns. The project includes a logo, auxiliary graphs, posters, typographies, and an interaction device.</p><p>Why am I doing this project?</p><p>I had severe acne when I was in high school. That affected my emotions and self-confident. I could not accept myself when I was facing mirrors, which was painful. I know how hard it is to fight against skin diseases. Therefore, I want to do something for people who have the same experiences as me with my design abilities. I want to encourage everyone to accept their unperfect skins, to discover the unique behind it. I did another story-telling interactive project about skin conditions, which you can visit in my interactive projects section.</p><p>Branding Design, Graphic Design.</p>",
-      "thumb": "res/works/skin/cover.jpg",
+      "bgColor": "#4D4D4D",
+      "text": "<p>Under the skin is a story-telling interactive design project about skin diseases. Users can expect to hear eight personal stories from people who have skin conditions while interacting with the installation. It's one of my school projects at Parson School of Design.</p><p>The interactive installation includes four components: hand imprints, skin pattern images, audio players, and the patients' information. When visitors interact with the hand imprint by pushing it, it will trigger the voice telling a personal story. The stories highlight positives in the patients’ lives, despite their conditions. An obstacle the patient overcame or a way that the condition had turned their lives in a positive direction. The hand imprints are from these people who have skin problems and give their stories, which can build a connection between visitors and sufferers. The media underhand imprints are real images from volunteers’ skin.</p><p>Goals/ Why am I doing this project?</p><p>I had severe acne when I was in high school. That affected my emotions and self-confidence. I could not accept myself when I was facing mirrors, which was painful. I know how hard it is to fight against skin diseases. Therefore, I want to do something for people who have the same experiences as me with my design abilities. I did a branding design for the Women’s Skin Foundation that is listed in my creative projects section. For this interactive project, I know that there are many stories behind different skin patterns, such as how skin problems affect people's daily lives, what misunderstandings people have experienced, what they have learned from it, and what makes them stronger. I want these people to speak out to express their feelings and to bring more awareness and empathy to other people. More awareness we got, the more accepted we become.</p><p>Challenges:</p><p>The most challenging part of this project is to find interviewees who want to work with me and to tell their stories. I sent messages to people with skin problems whom I discovered on Facebook and Instagram. However, I only got one person who finally became part of my project. Then I sent emails to different skin organizations. Luckily I was able to connect with the National Psoriasis Foundation. They helped me find six volunteers from their community. That surprised me and helped me to form my final plan. I would never know that there are so many people who want to help and there are so many impressing stories if I have not tried to reach out to them. I appreciate all the helps I got, and I am thankful for this experience.</p><p>The feedback I got from volunteers and the NPF community about my outcome made me more confident to design to help people and to solve problems. Getting support from people is essential for designers to make their works more valuable.</p><p>This project was published on NPFBLOG, which can be checked out here, <a href=\"https://www.psoriasis.org/blog/intersection-art-and-psoriasis\" target=\"_blank\">The intersection of art and psoriasis</a>. It was also presented at the National Psoriasis Foundation Volunteer Conference 2017 in Chicago.</p><p>UX Design, Visual presentation, Storytelling.</p>",
+      "thumb": "res/works/skin2/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/skin/1.jpg"
+          "url": "res/works/skin2/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/skin/2.jpg"
+          "url": "res/works/skin2/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/skin/3.jpg"
+          "url": "res/works/skin2/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/skin/4.jpg"
+          "url": "res/works/skin2/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/skin/5.jpg"
+          "url": "res/works/skin2/5.jpg"
         },
         {
-          "type": "image",
-          "url": "res/works/skin/6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin/7.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin/8.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin/9.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/skin/10.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Han Characters",
-      "date": "05.2018 - present",
-      "subtitle": "Chinese character drawings",
-      "primaryColor": "#000000",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#FFFFFF",
-      "text": "<p>Han Characters is an individual project about creative drawings of Chinese characters. It helps people who are learning Chinese to understand each word and remember it easily. The work is presented on an Instagram page @han_characters, which is established in May 2018.</p><p>I am always into characters, typography, and calligraphy. As more people become interested in learning Chinese, and I do think Chinese characters are so attractive, which represents the wise and culture of ancient China, I would love to share the forms, stories, and theories of Chinese Characters with my drawings.</p><p>For people who can't read Chinese, they may think Chinese characters look like drawings. It's so complicated. However, if you know more about it and know more about the stories of how and why these characters were created, you will be surprised. So, I thought that why not to really draw the characters with fun/related elements to tell the stories behind it. I want more people to feel the wise and culture of Chinese characters, and help them to understand these words better. I was always told that 'of the nation, of the world.' I would love to share what I know to people who are interested in learning.</p><p>Watercolor drawing, Creative drawing, Creative thinking.</p><p><a href=\"https://www.instagram.com/han_characters/\" target=\"_blank\">Instagram Page</a></p>",
-      "thumb": "res/works/han/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/han/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/4.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/5.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/6.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/han/7.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Virtual Makeup Social Posts",
-      "date": "12.2017 - 04.2018",
-      "subtitle": "Unique virtual makeup looks.",
-      "primaryColor": "#000000",
-      "secondaryColor": "#8C8C8C",
-      "bgColor": "#ffffff",
-      "text": "<p>I worked on creating the content by making virtual makeup templates in Photoshop and add the makeups to models' no-makeup faces.</p><p>Creative drawing, Creative thinking, Photoshop drawing</p><p><a href=\"https://www.instagram.com/giaranbeauty/\" target=\"_blank\">Instagram Page</a></p>",
-      "thumb": "res/works/ct/cover.jpg",
-      "media": [
-        {
-          "type": "image",
-          "url": "res/works/ct/1.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/ct/2.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/ct/3.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/ct/4.jpg"
+          "type": "video",
+          "url": "https://player.vimeo.com/video/163974265"
         }
       ]
     }
