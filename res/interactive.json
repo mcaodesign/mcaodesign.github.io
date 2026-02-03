@@ -58,10 +58,6 @@
         {
           "type": "image",
           "url": "res/works/acad-onboarding/11.jpg"
-        },
-        {
-          "type": "image",
-          "url": "res/works/acad-onboarding/12.jpg"
         }
       ],
       "password": "mcdesign"
@@ -103,6 +99,10 @@
         {
           "type": "image",
           "url": "res/works/acad-activity/6.jpg"
+        },
+        {
+          "type": "image",
+          "url": "res/works/acad-activity/7.jpg"
         }
       ],
       "password": "mcdesign"
