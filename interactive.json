@@ -9,55 +9,55 @@
       "secondaryColor": "#C4C8CC",
       "bgColor": "#000000",
       "text": "<p>AutoCAD Web brings core AutoCAD capabilities to the web and mobile, enabling users to review drawings and make simple edits anywhere, anytime. Designed as a lightweight, more affordable alternative to the full desktop AutoCAD, the product offers a 30-day free trial, after which users can subscribe for full access or continue with view-only mode.</p><p>This project focused on improving the onboarding experience for first-time users. With limited onboarding and educational guidance in place, new users often struggled to understand the product’s value and how to get started. The goal was to highlight key capabilities, set clear expectations, and equip users with the essential knowledge they need to engage confidently and effectively with AutoCAD Web from day one.</p><p><a href=\"https://web.autocad.com/login\" target=\"_blank\">AutoCAD Web</a></p>",
-      "thumb": "res/works/acad-onboarding/cover.jpg",
+      "thumb": "works/acad-onboarding/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/0.jpg"
+          "url": "works/acad-onboarding/0.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/1.jpg"
+          "url": "works/acad-onboarding/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/2.jpg"
+          "url": "works/acad-onboarding/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/3.jpg"
+          "url": "works/acad-onboarding/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/4.jpg"
+          "url": "works/acad-onboarding/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/5.jpg"
+          "url": "works/acad-onboarding/5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/6.jpg"
+          "url": "works/acad-onboarding/6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/7.jpg"
+          "url": "works/acad-onboarding/7.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/8.jpg"
+          "url": "works/acad-onboarding/8.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/9.jpg"
+          "url": "works/acad-onboarding/9.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/10.jpg"
+          "url": "works/acad-onboarding/10.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-onboarding/11.jpg"
+          "url": "works/acad-onboarding/11.jpg"
         }
       ],
       "password": "mcdesign"
@@ -70,39 +70,39 @@
       "secondaryColor": "#C4C8CC",
       "bgColor": "#2E3441",
       "text": "<p>Activity Insights is a well-loved feature in AutoCAD desktop that surfaces a drawing’s activity history, helping users understand what changed, when, and by whom. I led the effort to bring Activity Insights to AutoCAD Web and Mobile, delivering full functionality on web while enabling mobile to contribute activity data at MVS1.</p><p>As part of this work, we redesigned Activity Insights using Stitch components shared across platforms to ensure consistency, scalability, and easier updates. I also redesigned the filter and search experience, modernizing an overdue interaction and visual system to make activity exploration faster, clearer, and more usable.</p>",
-      "thumb": "res/works/acad-activity/cover.jpg",
+      "thumb": "works/acad-activity/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/acad-activity/0.jpg"
+          "url": "works/acad-activity/0.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/1.jpg"
+          "url": "works/acad-activity/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/2.jpg"
+          "url": "works/acad-activity/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/3.jpg"
+          "url": "works/acad-activity/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/4.jpg"
+          "url": "works/acad-activity/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/5.jpg"
+          "url": "works/acad-activity/5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/6.jpg"
+          "url": "works/acad-activity/6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/acad-activity/7.jpg"
+          "url": "works/acad-activity/7.jpg"
         }
       ],
       "password": "mcdesign"
@@ -115,95 +115,95 @@
       "secondaryColor": "#C4C8CC",
       "bgColor": "#0A5247",
       "text": "<p>Everlywell offers at-home lab testing by providing customers with self-collection kits that can be mailed to certified labs for analysis and digital results. I led the design to improve the test results experience for both direct-to-consumer and enterprise users, with a focus on clarity, trust, and ease of understanding in a sensitive health context.</p><p>The project began with Everlywell’s most popular product, the Food Sensitivity Test, and reimagined how results are presented, understood, and acted upon, helping users move from raw data to meaningful insight with confidence.</p>",
-      "thumb": "res/works/EverlyWell/cover.jpg",
+      "thumb": "works/EverlyWell/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.1.jpg"
+          "url": "works/EverlyWell/3.1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.2.jpg"
+          "url": "works/EverlyWell/3.2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.3.jpg"
+          "url": "works/EverlyWell/3.3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.4.jpg"
+          "url": "works/EverlyWell/3.4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.5.jpg"
+          "url": "works/EverlyWell/3.5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.6.jpg"
+          "url": "works/EverlyWell/3.6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.7.jpg"
+          "url": "works/EverlyWell/3.7.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.8.jpg"
+          "url": "works/EverlyWell/3.8.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.9.jpg"
+          "url": "works/EverlyWell/3.9.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.10.jpg"
+          "url": "works/EverlyWell/3.10.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.11.jpg"
+          "url": "works/EverlyWell/3.11.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.12.jpg"
+          "url": "works/EverlyWell/3.12.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.13.jpg"
+          "url": "works/EverlyWell/3.13.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.14.jpg"
+          "url": "works/EverlyWell/3.14.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.15.jpg"
+          "url": "works/EverlyWell/3.15.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.16.jpg"
+          "url": "works/EverlyWell/3.16.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.17.jpg"
+          "url": "works/EverlyWell/3.17.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.18.jpg"
+          "url": "works/EverlyWell/3.18.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.19.jpg"
+          "url": "works/EverlyWell/3.19.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.20.jpg"
+          "url": "works/EverlyWell/3.20.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.21.jpg"
+          "url": "works/EverlyWell/3.21.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/EverlyWell/3.22.jpg"
+          "url": "works/EverlyWell/3.22.jpg"
         }
       ],
       "password": "mcdesign"
@@ -216,103 +216,103 @@
       "secondaryColor": "#8C8C8C",
       "bgColor": "#efefef",
       "text": "<p>Core wellness is an SF-based health-tech startup, creating unique meditation experiences with the Core device, the mobile app, and offline Core studio. The core device is a handheld meditation tool. It vibrates to lead users to do different breath patterns with signals on inhale, exhale, and hold. There are sensors on the device to detect heart rate, beat-to-beat variability (HRV), and how these change throughout one meditation and overtime. The data generates the user's calm & focus score during the meditation session. So people can see their report right away and get to know the progress over time.</p><p>I started work at Core in July 2019 as a Product Designer. I redesign the Core mobile app from Beta to launch.</p><p><a href=\"https://apps.apple.com/us/app/core-meditation/id1490644270\" target=\"_blank\">Apple Store Link</a></p>",
-      "thumb": "res/works/core/cover.jpg",
+      "thumb": "works/core/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/core/0.jpg"
+          "url": "works/core/0.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/1.jpg"
+          "url": "works/core/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/2.jpg"
+          "url": "works/core/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/3.jpg"
+          "url": "works/core/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/4.jpg"
+          "url": "works/core/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/5.jpg"
+          "url": "works/core/5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/6.jpg"
+          "url": "works/core/6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/7.jpg"
+          "url": "works/core/7.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/8.jpg"
+          "url": "works/core/8.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/9.jpg"
+          "url": "works/core/9.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/10.jpg"
+          "url": "works/core/10.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/11.jpg"
+          "url": "works/core/11.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/12.jpg"
+          "url": "works/core/12.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/13.jpg"
+          "url": "works/core/13.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/14.jpg"
+          "url": "works/core/14.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/15.jpg"
+          "url": "works/core/15.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/16.jpg"
+          "url": "works/core/16.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/17.jpg"
+          "url": "works/core/17.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/18.jpg"
+          "url": "works/core/18.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/19.jpg"
+          "url": "works/core/19.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/20.jpg"
+          "url": "works/core/20.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/21.jpg"
+          "url": "works/core/21.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/22.jpg"
+          "url": "works/core/22.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/core/23.jpg"
+          "url": "works/core/23.jpg"
         }
       ],
       "password": "mcdesign"
@@ -325,55 +325,55 @@
       "secondaryColor": "#8C8C8C",
       "bgColor": "#323335",
       "text": "<p>Clade is an NYC-based startup, comes from an initial incubation inside of Credit Suisse. Online and offline, Clade is a private club for investors, innovators, and philanthropists. Clade members generally share a couple of core commonalities: a desire to influence the world around them, and the ability to marshal meaningful resources to make a difference.</p><p>Goals and challenges:</p><p>The overall goal of the Clade-Private is to encourage members' engagement and interaction as much as possible with a comfortable experience. We want to build an active social space for members to achieve their intentions and to fulfill their demands.</p><p>Clade has an open application process. While anyone can apply, the requirements for membership are not made available publicly, and almost all successful applicants are referred by other members. The membership selection process is overseen by our Admissions Committee. So, the onboarding/applying process became a big challenge for us. How to ask enough questions for Clade to select the right members and how to keep it simple and feel short at the same time.</p><p>Clade-Private includes many components. There are posts feed (articles, deals, philanthropy, Clade Kids, arts), writing posts, interacting with posts, investing deals, messaging, clubhouse/ member's directory, profile, notifications, and settings. Also, we have a desktop admin tool to manage the Clade app. It is a challenge to build a mobile app that can do so many things. We have to understand our users enough to provide the easiest way to achieve their goals while using the app.</p><p>My role:</p><p>We were a small team. I worked closely with the product manager, developers, and marketing team. I was the only in-house designer for three months right before and after the launch. I worked with two remote freelancers while I just started working at Clade. I worked with another Sr. UX designer after we launched the product.</p><p>I designed sections of onboarding, posting philanthropy, interacting with posts (likes & comments), messaging, creating a profile, member's directory, and forgetting passwords, shown below. The design process includes research, competitive analysis, user flowers, designs, prototyping, testing, iterations, and communicating with developers.</p><p>Research, UX Design, UI Design, Visual Design, Prototyping, Testing.</p><p><a href=\"https://itunes.apple.com/us/app/clade-private/id1173249090?mt=8&ign-mpt=uo%3D2\" target=\"_blank\">Apple Store Link</a></p>",
-      "thumb": "res/works/clade/cover.jpg",
+      "thumb": "works/clade/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/clade/1.jpg"
+          "url": "works/clade/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/2.jpg"
+          "url": "works/clade/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/3.jpg"
+          "url": "works/clade/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/4.jpg"
+          "url": "works/clade/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/5.jpg"
+          "url": "works/clade/5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/6.jpg"
+          "url": "works/clade/6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/7.jpg"
+          "url": "works/clade/7.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/8.jpg"
+          "url": "works/clade/8.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/9.jpg"
+          "url": "works/clade/9.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/10.jpg"
+          "url": "works/clade/10.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/11.jpg"
+          "url": "works/clade/11.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/clade/11.gif"
+          "url": "works/clade/11.gif"
         }
       ],
       "password": "mcdesign"
@@ -386,39 +386,39 @@
       "secondaryColor": "#212121",
       "bgColor": "#6A4EA0",
       "text": "<p>Buxom is a cosmetic brand under Shiseido. This Buxom Virtual Makeup is mainly focused on Buxom lip products.</p><p>The Technology Innovation department at Shiseido is building virtual makeup experiences with AI technology. We have solutions for virtual lip makeups, virtual eye makeups (eyeshadow, eyeliner, mascara), cheek makeups (brush, contour, highlighter), and foundation makeups. We also have virtual tutorials experience, trending looks, makeup remover, and more.</P><p>Goals/challenges:</p><p>Buxom Virtual Makeup is the first project I did at Shiseido. The overall goal of this project is to provide accurate virtual results for Buxom lip products with user-friendly experiences to drive sales. My personal goal is to understand the technical capabilities and user behavior to design initial virtual try-on experiences. \n</p><p>My role:</p><p>I am the only designer on the Innovation team. We have 12 people in total. My work includes the initial UI/UX design solutions for both mobile and desktop, visual control on the virtual try-on results, and collaborating with computer vision engineers, iOS developers, and full-stack developers on a daily basis.</p><p>Research, Wireframes, UX Design, UI Design, Visual Design, Collaborations.</p><p><a href=\"res/designcase.pdf\" target=\"_blank\">LianUp design case study</a> for more details on the design process.</p>",
-      "thumb": "res/works/buxom/cover.jpg",
+      "thumb": "works/buxom/cover.jpg",
       "media": [
         {
           "type": "image",
-          "url": "res/works/buxom/0.jpg"
+          "url": "works/buxom/0.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/1.jpg"
+          "url": "works/buxom/1.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/2.jpg"
+          "url": "works/buxom/2.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/3.jpg"
+          "url": "works/buxom/3.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/4.jpg"
+          "url": "works/buxom/4.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/5.jpg"
+          "url": "works/buxom/5.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/6.jpg"
+          "url": "works/buxom/6.jpg"
         },
         {
           "type": "image",
-          "url": "res/works/buxom/7.jpg"
+          "url": "works/buxom/7.jpg"
         }
       ],
       "password": "mcdesign"
