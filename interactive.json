@@ -59,7 +59,7 @@
           "type": "image",
           "url": "works/acad-onboarding/11.jpg"
         }
-      ],
+      ]
     },
     {
       "name": "AutoCAD Activity Insights",
@@ -103,7 +103,7 @@
           "type": "image",
           "url": "works/acad-activity/7.jpg"
         }
-      ],
+      ]
     },
     {
       "name": "EverlyWell",
@@ -203,7 +203,7 @@
           "type": "image",
           "url": "works/EverlyWell/3.22.jpg"
         }
-      ],
+      ]
     },
     {
       "name": "Core Meditation",
@@ -311,7 +311,7 @@
           "type": "image",
           "url": "works/core/23.jpg"
         }
-      ],
+      ]
     },
     {
       "name": "Clade",
@@ -371,7 +371,7 @@
           "type": "image",
           "url": "works/clade/11.gif"
         }
-      ],
+      ]
     },
     {
       "name": "Buxom Virtual Makeup",
@@ -415,7 +415,7 @@
           "type": "image",
           "url": "works/buxom/7.jpg"
         }
-      ],
+      ]
     }
   ]
 }
